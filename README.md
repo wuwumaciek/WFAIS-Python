@@ -1,4 +1,4 @@
 # WFAIS-Python
 
-## Zadanie 2
+## Lekcja 2 - zadanie
 **Zadanie24.10.py**
