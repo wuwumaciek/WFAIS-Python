@@ -8,7 +8,7 @@ else:
     # Widać, że kod działa poprawnie
 
 #for i in "axby": if ord(i) < 100: print (i)
-    # Powyższa linika jest niepoprawna, "if" powienn zostac przenisiony do następnej liniki:
+    # Powyższa linia kodu jest niepoprawna, "if" powinien zostać przeniesiony do następnej liniki:
 for i in "axby": 
     if ord(i) < 100: print (i)
     
